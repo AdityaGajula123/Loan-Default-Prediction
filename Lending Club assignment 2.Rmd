@@ -1,7 +1,4 @@
 ---
-title: "GBM GLM WIP"
-author: "Chaitra Srirama, Viharika Bharti, Aditya Gajula"
-date: "2/26/2020"
 output: html_document
 ---
 ## R Markdown
