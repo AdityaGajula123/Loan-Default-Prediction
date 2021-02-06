@@ -1,10 +1,5 @@
 ---
-title: "LendingClubAssignment"
 output: html_document
----
-Aditya Gajula
-Viharika Bharti
-Samanvitha Pitta
 ---
 
 ```{r setup, include=FALSE}
